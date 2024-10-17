@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://ausbet55.com/sitemap.php
+Sitemap: https://medusa.dontkillmyapp.com/sitemap.php
